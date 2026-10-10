@@ -15,6 +15,9 @@ PhishGuard AI analyzes URLs and messages using 15+ heuristics and a scoring engi
 - 🧠 Explainable results — shows exactly which rules fired
 - ⚡ Runs 100% client-side (no data leaves the browser)
 
+## Live Demo
+👉 https://24kq1a61c5-crypto.github.io/phishguard-ai/
+
 ## Tech Stack
 HTML • CSS • JavaScript
 
